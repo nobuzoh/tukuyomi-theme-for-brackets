@@ -1,0 +1,14 @@
+{
+    "name": "nobuzoh.tukuyomi-theme-for-brackets",
+    "title": "Tukuyomi Theme",
+    "description": "High Contrast Dark Theme",
+    "homepage": "https://github.com/nobuzoh/tukuyomi-theme-for-brackets",
+    "version": "1.0.0",
+    "author": "nobuzoh",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
